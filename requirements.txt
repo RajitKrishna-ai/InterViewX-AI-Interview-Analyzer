@@ -1,0 +1,39 @@
+# Core Python Version
+python_version >= 3.10
+
+# Audio Processing
+pydub
+ffmpeg-python
+librosa
+soundfile
+
+# Whisper / ASR
+openai-whisper
+ctranslate2
+faster-whisper
+
+# NLP + Embeddings
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+
+# LLM Agent / Chat
+langchain
+langchain-community
+langchain-core
+
+# RAG / VectorSearch
+faiss-cpu
+
+# Streamlit App
+streamlit
+streamlit-option-menu
+
+# Utils
+numpy
+pandas
+scikit-learn
+tqdm
+python-dotenv
